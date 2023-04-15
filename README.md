@@ -2,9 +2,9 @@
     Django directory structure and api basic settings
 ------
 **VERSION**
-> python 3.11
-> pip 23.0.1
-> django 4.1.7
+> python 3.11<br>
+> pip 23.0.1<br>
+> django 4.1.7<br>
 
 ### Directory Structure
     repo
