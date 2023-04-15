@@ -85,9 +85,9 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "jooda.wsgi.application"
+WSGI_APPLICATION = "project.wsgi.application"
 
-
+# use MySQL
 pymysql.install_as_MySQLdb()
 DATABASES = {
     "default": {

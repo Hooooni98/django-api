@@ -21,5 +21,5 @@ urlpatterns = [
 ]
 
 urlpatterns += [
-    path("admin-jooda/", admin_site.urls),
+    path("admin-path/", admin_site.urls),
 ]
